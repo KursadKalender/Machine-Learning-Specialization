@@ -4,8 +4,8 @@
 - [Week 1](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Optional%20Labs/)
 
     - [Practice quiz: Regression](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Practice%20Quiz/Regression.PNG/)
-    - [Practice quiz: Supervised vs unsupervised learning](/C1%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/week1/Practice%20quiz%3A%20Supervised%20vs%20unsupervised%20learning/)
-    - [Practice quiz: Train the model with gradient descent](/C1%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/week1/Practice%20quiz%3A%20Train%20the%20model%20with%20gradient%20descent/)
+    - [Practice quiz: Supervised vs unsupervised learning](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Practice%20Quiz/Supervised%20vs%20Unsupervised%20Learning.PNG/)
+    - [Practice quiz: Train the model with gradient descent](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Practice%20Quiz/Train%20the%20model%20with%20gradient%20descent.png/)
   - [Optional Labs](/C1%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/week1/Optional%20Labs)
     - [Model Representation](/C1%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/week1/Optional%20Labs/C1_W1_Lab03_Model_Representation_Soln.ipynb)
     - [Cost Function](/C1%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/week1/Optional%20Labs/C1_W1_Lab04_Cost_function_Soln.ipynb)
