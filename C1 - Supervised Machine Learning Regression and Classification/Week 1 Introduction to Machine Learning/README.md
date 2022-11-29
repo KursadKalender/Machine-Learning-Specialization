@@ -1,4 +1,4 @@
-- [Week 1](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Optional%20Labs/)
+- [Week 1 Introduction to Machine Learning](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Optional%20Labs/)
 
     - [Practice quiz: Regression](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Practice%20Quiz/Regression.PNG/)
     - [Practice quiz: Supervised vs unsupervised learning](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Practice%20Quiz/Supervised%20vs%20Unsupervised%20Learning.PNG/)
