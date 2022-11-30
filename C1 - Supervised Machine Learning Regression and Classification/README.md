@@ -28,3 +28,20 @@
       - [Linear Regression](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%202%20Regression%20with%20Multiple%20Input%20Variables/Graded%20Lab/LinearRegression.ipynb)
 
 <br/>
+
+- [Week 3 Classification](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/) 
+
+    - [Practice quiz: Classification with Logistic Regression](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/Practice%20Quiz/Classification%20with%20Logistic%20Regression.png)
+    - [Practice quiz: Cost Function for Logistic Regression](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/Practice%20Quiz/Cost%20Function%20for%20Logistic%20Regression.png)
+    - [Practice quiz: Gradient Descent for Logistic Regression](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/Practice%20Quiz/Gradient%20Descent%20for%20Logistic%20Regression.png)
+    - [Practice quiz: The Problem of Overfitting](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/Practice%20Quiz/The%20Problem%20of%20Overfitting.png)
+    - [Optional Labs](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%202%20Regression%20with%20Multiple%20Input%20Variables/Optional%20Labs/)
+      - [Numpy Vectorization](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%202%20Regression%20with%20Multiple%20Input%20Variables/Optional%20Labs/C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb)
+      - [Multi Variate Regression](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%202%20Regression%20with%20Multiple%20Input%20Variables/Optional%20Labs/C1_W2_Lab02_Multiple_Variable_Soln.ipynb)
+      - [Feature Scaling](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%202%20Regression%20with%20Multiple%20Input%20Variables/Optional%20Labs/C1_W2_Lab03_Feature_Scaling_and_Learning_Rate_Soln.ipynb)
+      - [Feature Engineering](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%202%20Regression%20with%20Multiple%20Input%20Variables/Optional%20Labs/C1_W2_Lab04_FeatEng_PolyReg_Soln.ipynb)
+      - [Sklearn Gradient Descent](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%202%20Regression%20with%20Multiple%20Input%20Variables/Optional%20Labs/C1_W2_Lab05_Sklearn_GD_Soln.ipynb)
+    - [Programming Assignment - Graded Lab](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%202%20Regression%20with%20Multiple%20Input%20Variables/Graded%20Lab/)
+      - [Linear Regression](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%202%20Regression%20with%20Multiple%20Input%20Variables/Graded%20Lab/LinearRegression.ipynb)
+
+<br/>
