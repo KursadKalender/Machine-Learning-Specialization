@@ -1,3 +1,5 @@
+## Supervised Machine Learning : Regression and Classification
+
 - [Week 2 Regression with Multiple Input Variables](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%202%20Regression%20with%20Multiple%20Input%20Variables/) 
 
     - [Practice quiz: Gradient descent in practice](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%202%20Regression%20with%20Multiple%20Input%20Variables/Practice%20Quiz/Gradient%20Descent%20in%20Practice.png)
