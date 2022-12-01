@@ -1,3 +1,5 @@
+## Supervised Machine Learning : Regression and Classification
+
 - [Week 3 Classification](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/) 
 
     - [Practice quiz: Classification with Logistic Regression](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/Practice%20Quiz/Classification%20with%20Logistic%20Regression.png)
