@@ -1,4 +1,4 @@
-##Advanced Learning Algorithms
+## Advanced Learning Algorithms
 
 - [Week 2 Neural Networks Training](/C2%20-%20Advanced%20Learning%20Algorithms/Week%202%20Neural%20Networks%20Training/)
 
