@@ -1,3 +1,5 @@
+## Advanced Learning Algorithms
+
 - [Week 3 Advice for Applying Machine Learning](/C2%20-%20Advanced%20Learning%20Algorithms/Week%203%20Advice%20for%20Applying%20Machine%20Learning/)
 
     - [Practice quiz: Advice for Applying Machine Learning](/C2%20-%20Advanced%20Learning%20Algorithms/Week%203%20Advice%20for%20Applying%20Machine%20Learning/Practice%20Quiz/Advice%20for%20Applying%20Machine%20Learning.png/)
