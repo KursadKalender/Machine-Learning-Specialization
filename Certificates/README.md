@@ -3,3 +3,7 @@
 ## C1 - Supervised Machine Learning Regression and Classification
 
 ![](/Certificates/helper/c1certificate.PNG)
+
+## C2 - Advanced Learning Algorithms
+
+![](/Certificates/helper/c2certificate.PNG)
