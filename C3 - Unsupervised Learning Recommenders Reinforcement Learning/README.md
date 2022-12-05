@@ -1,4 +1,4 @@
-## C3 - Unsupervised Learning, Recommenders, Reinforcement Learnings
+## C3 - Unsupervised Learning, Recommenders, Reinforcement Learning
 
 - [Week 1 Unsupervised Learning](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%201%20Unsupervised%20Learning/)
 
