@@ -104,3 +104,5 @@ Contains Solutions and Notes for the Machine Learning Specialization By Andrew N
   - [Programming Assignment - Graded Lab](/C2%20-%20Advanced%20Learning%20Algorithms/Week%204%20Decision%20Trees/Graded%20Lab)
     - [Decision Trees](/C2%20-%20Advanced%20Learning%20Algorithms/Week%204%20Decision%20Trees/Graded%20Lab/C2_W4_Decision_Tree_with_Markdown.ipynb)
 <br/>
+
+## C3 - Unsupervised Learning, Recommenders, Reinforcement Learning 
