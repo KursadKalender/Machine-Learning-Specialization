@@ -1,3 +1,5 @@
+## C3 - Unsupervised Learning, Recommenders, Reinforcement Learning
+
 - [Week 2 Recommender Systems](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/)
 
     - [Practice quiz: Collaborative Filtering](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/Practice%20Quiz/Collaborative%20Filtering.png/)
