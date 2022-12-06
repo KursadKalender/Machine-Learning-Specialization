@@ -18,7 +18,7 @@
   - [Optional Labs](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/Optional%20Labs)
     - [An example on Exploratory Data Analysis](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/Optional%20Labs/C3_W2_Lab01_PCA_Visualization_Examples.ipynb)
    - [Programming Assignment - Graded Lab](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/Graded%20Lab)
-    - [Collaborative Filtering Recommender Systems](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/Graded%20Lab/C3_W2_Collaborative_RecSys_Assignment.ipynb)
-    - [Deep Learning for Content-Based Filtering](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/Graded%20Lab/C3_W2_RecSysNN_Assignment.ipynb)
+        - [Collaborative Filtering Recommender Systems](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/Graded%20Lab/C3_W2_Collaborative_RecSys_Assignment.ipynb)
+        - [Deep Learning for Content-Based Filtering](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/Graded%20Lab/C3_W2_RecSysNN_Assignment.ipynb)
 
 <br/>
