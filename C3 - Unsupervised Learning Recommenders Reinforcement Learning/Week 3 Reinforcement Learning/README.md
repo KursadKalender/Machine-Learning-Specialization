@@ -1,3 +1,5 @@
+## C3 - Unsupervised Learning, Recommenders, Reinforcement Learning
+
 - [Week 3 Reinforcement Learning](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%203%20Reinforcement%20Learning/)
 
     - [Practice quiz: Reinforcement Learning Introduction](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%203%20Reinforcement%20Learning/Practice%20Quiz/Reinforcement%20Learning%20Introduction.png/)
