@@ -138,7 +138,7 @@ Contains Solutions and Notes for the Machine Learning Specialization By Andrew N
   - [Optional Labs](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%203%20Reinforcement%20Learning/Optional%20Labs)
     - [State Action Value Function Example](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%203%20Reinforcement%20Learning/Optional%20Labs/State-action%20value%20function%20example.ipynb)
    - [Programming Assignment - Graded Lab](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%203%20Reinforcement%20Learning/Graded%20Lab)
-        - [Collaborative Filtering Recommender Systems](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/Graded%20Lab/C3_W2_Collaborative_RecSys_Assignment.ipynb)
-        - [Deep Learning for Content-Based Filtering](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/Graded%20Lab/C3_W2_RecSysNN_Assignment.ipynb)
+        - [Deep Q-Learning - Lunar Lander](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%203%20Reinforcement%20Learning/Graded%20Lab/C3_W3_A1_Assignment.ipynb)
+        
 
 <br/>
