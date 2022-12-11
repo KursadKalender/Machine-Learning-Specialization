@@ -132,8 +132,8 @@ Contains Solutions and Notes for the Machine Learning Specialization By Andrew N
 
 - [Week 3 Reinforcement Learning](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%203%20Reinforcement%20Learning/)
 
-    - [Practice quiz: Collaborative Filtering](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/Practice%20Quiz/Collaborative%20Filtering.png/)
-    - [Practice quiz: Content Based Filtering](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/Practice%20Quiz/Content%20Based%20Filtering.png/)
+    - [Practice quiz: Reinforcement Learning Introduction](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%203%20Reinforcement%20Learning/Practice%20Quiz/Reinforcement%20Learning%20Introduction.png/)
+    - [Practice quiz: State-Action Value Function](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%203%20Reinforcement%20Learning/Practice%20Quiz/State-Action%20Value%20Function.png/)
     - [Practice quiz: Recommender Systems Implementation](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/Practice%20Quiz/Recommender%20Systems%20Implementation.png/)
   - [Optional Labs](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/Optional%20Labs)
     - [An example on Exploratory Data Analysis](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/Optional%20Labs/C3_W2_Lab01_PCA_Visualization_Examples.ipynb)
