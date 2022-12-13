@@ -7,3 +7,7 @@
 ## C2 - Advanced Learning Algorithms
 
 ![](/Certificates/helper/c2certificate.PNG)
+
+## C3 - Unsupervised Learning, Recommenders, Reinforcement Learning
+
+![](/Certificates/helper/c3certificate.PNG)
